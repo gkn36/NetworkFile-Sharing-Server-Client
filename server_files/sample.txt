@@ -1,0 +1,11 @@
+This is a sample text file for testing the file sharing application.
+
+You can download this file from the server to test the download functionality.
+You can also modify this file and upload it back to test the upload functionality.
+
+The file transfer uses:
+- Low-level file operations (open, read, write, close)
+- Socket programming (send, recv)
+- Simple XOR encryption for demonstration
+
+This demonstrates Linux System Programming concepts in action!
